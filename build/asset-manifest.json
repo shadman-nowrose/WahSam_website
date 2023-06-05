@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.260fdb5e.css",
+    "main.js": "/static/js/main.628f5d71.js",
+    "static/media/contact.jpg": "/static/media/contact.5a342fb4254b428168c9.jpg",
+    "static/media/home.jpg": "/static/media/home.60e35ea28eb54500522c.jpg",
+    "static/media/Food suplements.jpg": "/static/media/Food suplements.c0c8ef9d987cdd567d74.jpg",
+    "static/media/pharmaC.jpg": "/static/media/pharmaC.6c7df103163302f2aeb9.jpg",
+    "static/media/Industrial Tiles.png": "/static/media/Industrial Tiles.282e3bf3ab8806b3d666.png",
+    "static/media/Fish oil.jpg": "/static/media/Fish oil.72c373b1f865da2094e0.jpg",
+    "static/media/Coating.jpg": "/static/media/Coating.a50842fb8438f25bd1aa.jpg",
+    "static/media/paints.png": "/static/media/paints.36f4283af5ca3de02085.png",
+    "static/media/API.jpg": "/static/media/API.fcbb17d4d2e41509c66f.jpg",
+    "static/media/Checkered Plate.png": "/static/media/Checkered Plate.cfbaa97758f3220e330a.png",
+    "static/media/MS Box Pipe.png": "/static/media/MS Box Pipe.aa0875cfe18bb96a9e5b.png",
+    "static/media/HR & CRCA Furniture.png": "/static/media/HR & CRCA Furniture.0e3fec06f36c78891f7a.png",
+    "static/media/Soya.jpg": "/static/media/Soya.72975f84085f1826f2fc.jpg",
+    "static/media/Electrical Switch & Boards.png": "/static/media/Electrical Switch & Boards.3717b73371a565424b70.png",
+    "static/media/PPGI.png": "/static/media/PPGI.3b85654c87b48edc6c6e.png",
+    "static/media/Commericial Air Conditioner.png": "/static/media/Commericial Air Conditioner.f417da2a02a788c65e3c.png",
+    "static/media/electricalC.jpg": "/static/media/electricalC.79d3a490456715c0f298.jpg",
+    "static/media/Circuit Breaker.png": "/static/media/Circuit Breaker.45444ed49f074deff129.png",
+    "static/media/Distribution Board.png": "/static/media/Distribution Board.712452e10e3c4ce9610b.png",
+    "static/media/Distillers.jpg": "/static/media/Distillers.5d18e474ee4c90ded79d.jpg",
+    "static/media/Excipients.jpg": "/static/media/Excipients.fbf9cfba925c8cee2451.jpg",
+    "static/media/Industrial Air Conditioner.jpg": "/static/media/Industrial Air Conditioner.26ec0cd6e4cbd4171514.jpg",
+    "static/media/Hr Coil.jpg": "/static/media/Hr Coil.43bd796af277fc73491a.jpg",
+    "static/media/Industrial Storage Rack.jpg": "/static/media/Industrial Storage Rack.e4e552e3e3c87ef79540.jpg",
+    "static/media/Biotechnologies.jpg": "/static/media/Biotechnologies.f2cd494431e774057ddd.jpg",
+    "static/media/logo-mission.png": "/static/media/logo-mission.f06a701de89acb4ae978.png",
+    "static/media/logo.png": "/static/media/logo.592c0cbabf1841460d11.png",
+    "static/media/logo-vision.png": "/static/media/logo-vision.39a7f30836c4429abe7d.png",
+    "index.html": "/index.html",
+    "main.260fdb5e.css.map": "/static/css/main.260fdb5e.css.map",
+    "main.628f5d71.js.map": "/static/js/main.628f5d71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.260fdb5e.css",
+    "static/js/main.628f5d71.js"
+  ]
+}
