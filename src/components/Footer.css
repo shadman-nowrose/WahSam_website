@@ -1,0 +1,116 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
+
+/* Footer container */
+footer {
+  background-color: #ffffff;
+  padding: 25px;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  color: #333;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.1);
+}
+
+/* Footer container width */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Footer row */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+/* Footer column */
+.col {
+  padding-top: 2rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 50%;
+}
+
+/* Footer logo 
+.logo img {
+  width: 80%;
+  max-width: 200px;
+} */
+
+/* Footer column headings */
+h3 {
+  font-size: 18px;
+  margin-bottom: 1rem;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  color: #333;
+
+}
+
+/* Footer links */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+ul li a:hover {
+  color: #2cb454;
+}
+
+/* Footer social icons */
+.social-icons a {
+  margin-right: 10px;
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #2cb454;
+}
+
+/* Thin footer */
+.thin-footer {
+  background-color: #333;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+.thin-footer p {
+  margin: 0.5rem;
+  font-size: 14px;
+}
+
+@media screen and (max-width: 1024px) {
+  .row {
+    flex-wrap: wrap;
+  }
+
+  .col {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+    .row {
+      flex-wrap: wrap;
+    }
+  
+    .col {
+      width: 100%;
+    }
+  }

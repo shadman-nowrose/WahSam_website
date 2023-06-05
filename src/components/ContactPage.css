@@ -1,0 +1,84 @@
+/*body {
+    background-image: url("../components/Images/contact.jpg"); /* Adjust the path to match the location of your image 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }*/
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 52px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-top: 3rem;
+  }
+  
+  h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    padding-bottom: 2rem;    
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif; /* Match the font with the navbar */
+    text-align: left; /* Left align the labels */
+    color: #333;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  textarea {
+    width: 60%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px; /* Rounded border */
+    font-family: 'Lato', sans-serif; /* Match the font with the navbar */
+    text-align: left; /* Left align the text inputs and textarea */
+  }
+  
+  textarea {
+    resize: vertical;
+    height: 100px;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 30px;
+    border-radius: 25px;
+    background-color: transparent;
+    display: block;
+    margin: 0 auto;
+    color: #2cb454;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border: 2.3px solid #2cb454;
+    cursor: pointer;
+    margin-bottom: 3rem;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #2cb454;
+    color: #ffffff;
+  }
+  
